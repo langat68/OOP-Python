@@ -7,10 +7,12 @@ class character:
 warrior = character(  100,70,20)
 ninja = character(90,70,60)
 
-
-
 print(f"warrior speed:{warrior.speed}")
 print(f"ninja speed:{ninja.speed}")
+
+
+
+
 
 
 class bankaccount:
